@@ -42,7 +42,11 @@ node app
 
 ## Project Structure
 
-- `src/`: Contains the source code of the project.
-- [MongoDB](https://www.mongodb.com/)
-- [npm](https://www.npmjs.com/) (Node.js package manager)
-
+- `controllers/`
+- `env/`
+- `models/`
+- `public/`
+- `routes/`
+- `views/`
+  - `blogs/`
+  - `partials/`
