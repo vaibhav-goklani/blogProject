@@ -30,7 +30,7 @@ git clone https://github.com/vaibhav-goklani/blogProject.git
 2. Install dependencies:
 
 ```bash
-cd blog-project
+cd blogProject
 npm install
 ```
 
