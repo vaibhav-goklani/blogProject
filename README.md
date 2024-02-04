@@ -50,3 +50,9 @@ node app
 - `views/`
   - `blogs/`
   - `partials/`
+
+## Dependencies
+
+- Express: Web application framework for Node.js
+- Mongoose: MongoDB object modeling tool
+
