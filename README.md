@@ -32,19 +32,17 @@ git clone https://github.com/your-username/blog-project.git
 ```bash
 cd blog-project
 npm install
+```
 
 3. Start the server:
 
 ```bash
 node app
+```
 
 ## Project Structure
 
-- src/: Contains the source code of the project.
-controllers/: Controllers for handling different routes.
-models/: Mongoose models for data structures.
-routes/: Express routes.
-views/: Front-end views (if applicable).
-- config/: Configuration files.
-- public/: Static assets.
-- tests/: Test files.
+- `src/`: Contains the source code of the project.
+- [MongoDB](https://www.mongodb.com/)
+- [npm](https://www.npmjs.com/) (Node.js package manager)
+
