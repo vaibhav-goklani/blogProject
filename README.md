@@ -53,6 +53,6 @@ node app
 
 ## Dependencies
 
-- Express: Web application framework for Node.js
-- Mongoose: MongoDB object modeling tool
+- [Express](https://expressjs.com/): Web application framework for Node.js
+- [Mongoose](https://mongoosejs.com/): MongoDB object modeling tool
 
